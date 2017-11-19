@@ -1,4 +1,4 @@
-package com.cwx.attitude.pojo;
+package com.cwx.attitude;
 
 public class UserInfo {
 
